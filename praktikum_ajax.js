@@ -1,5 +1,5 @@
 $(function () {
-    $("nama").load("test.txt");
+    $("#nama").load("test.txt");
 });
 
 
